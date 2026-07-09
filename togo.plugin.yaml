@@ -1,0 +1,9 @@
+name: os
+description: Desktop-shell OS layer for togo — login screen, desktop, dock, top bar, theming, and an OS-app packaging convention.
+priority: 95
+backend:
+  package: github.com/togo-framework/os
+frontend:
+  dir: web
+claude: .claude
+env: []
